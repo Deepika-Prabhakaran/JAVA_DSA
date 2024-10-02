@@ -11,7 +11,7 @@ public class Split_Array_Largest_Sum {
         int end=0;
         
         for(int i=0;i<nums.length;i++){
-            start=Math.max(start, nums.length);
+            start=Math.max(start,nums[i]);
             end+=nums[i];
         }  
         while(start<end){
