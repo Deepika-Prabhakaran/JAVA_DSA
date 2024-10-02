@@ -7,7 +7,7 @@
  *
  * @author Sneha
  */
-//https://leetcode.com/problems/richest-customer-wealth/description/
+//1672//https://leetcode.com/problems/richest-customer-wealth/description/
 public class Richest_customer_wealth {
     public static void main(String args[]){
         int[][] accounts={{1,5},{7,5},{3,5}};
